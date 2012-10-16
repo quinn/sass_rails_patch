@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Quinn Shanahan']
   s.email       = 'q.shanahan@gmail.com'
   s.files       = ['lib/sass_rails_patch.rb']
-  s.homepage    = 'http://google.com'
+  s.homepage    = 'https://github.com/quinn/sass_rails_patch'
 
   s.add_runtime_dependency 'sass-rails', '>= 0'
 end
