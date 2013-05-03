@@ -1,3 +1,5 @@
+require 'sass/rails'
+
 class Sass::Rails::Importer
   def sass_file? filename
     filename = filename.to_s
