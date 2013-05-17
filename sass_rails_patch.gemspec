@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'sass_rails_patch'
-  s.version     = '0.0.1'
-  s.date        = '2012-10-03'
+  s.version     = '0.0.2'
+  s.date        = '2013-05-17'
   s.summary     = 'Fix sass precompile'
   s.description = 'Fix sass precompile in rails'
   s.authors     = ['Quinn Shanahan']
